@@ -1,0 +1,14 @@
+{
+    "name": "milescook/fizzbuzz",
+    "require-dev": {
+        "phpspec/phpspec": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Miles Cook",
+            "email": "miles.cook@cookieonline.net"
+        }
+    ],
+    "require": {},
+    "autoload": {"psr-0": {"": "src"}}
+}
